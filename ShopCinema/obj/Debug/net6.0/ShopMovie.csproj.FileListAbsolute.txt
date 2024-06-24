@@ -1,0 +1,176 @@
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\ShopMovie.staticwebassets.runtime.json
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\ShopMovie.exe
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\ShopMovie.deps.json
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\ShopMovie.runtimeconfig.json
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\ShopMovie.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\ShopMovie.pdb
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.AssemblyInfo.cs
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\staticwebassets\msbuild.ShopMovie.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\staticwebassets\msbuild.build.ShopMovie.props
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShopMovie.props
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ShopMovie.props
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\scopedcss\bundle\ShopMovie.styles.css
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\scopedcss\projectbundle\ShopMovie.bundle.scp.css
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.csproj.CopyComplete
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\refint\ShopMovie.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.pdb
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.genruntimeconfig.cache
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ref\ShopMovie.dll
+C:\Users\User\Desktop\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\appsettings.json
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\ShopMovie.staticwebassets.runtime.json
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\ShopMovie.exe
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\ShopMovie.deps.json
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\ShopMovie.runtimeconfig.json
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\ShopMovie.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\ShopMovie.pdb
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.csproj.AssemblyReference.cache
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.AssemblyInfoInputs.cache
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.AssemblyInfo.cs
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.RazorAssemblyInfo.cache
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.RazorAssemblyInfo.cs
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\staticwebassets\msbuild.ShopMovie.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\staticwebassets\msbuild.build.ShopMovie.props
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShopMovie.props
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ShopMovie.props
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\scopedcss\bundle\ShopMovie.styles.css
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\scopedcss\projectbundle\ShopMovie.bundle.scp.css
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.csproj.CopyComplete
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\refint\ShopMovie.dll
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.pdb
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ShopMovie.genruntimeconfig.cache
+C:\Users\Кирилл\OneDrive\Учеба\Учеба\3 курс\RKPP\Курсовая\ShopCinema\ShopCinema\obj\Debug\net6.0\ref\ShopMovie.dll

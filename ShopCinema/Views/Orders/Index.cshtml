@@ -1,0 +1,70 @@
+﻿@model List<Order>
+
+@{ 
+    ViewData["Title"] = "All orders";
+}
+@if (User.Identity.IsAuthenticated)
+{
+<div class="row">
+    <div class="col-md-8 offset-2">
+        <p>
+                <form class="form-inline my-2 my-lg-0" asp-controller="Orders" asp-action="FilterOrder" style="display: flex; margin-right: 25px;">
+                    <input name="searchString" type="text" class="form-control" placeholder="Search for a Order..." aria-label="Recipient's username" aria-describedby="button-addon2">
+                    <button class="btn btn-outline-success my-2 my-sm-0" style="margin-left: 10px;" type="submit"><i class="bi bi-search"></i></button>
+                </form>
+            <h1 style="text-align:center;">List of all your orders</h1>
+        </p>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Items</th>
+                    <th>Total</th>
+                    @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                    {
+                        <th>User</th>
+                    }
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var order in Model)
+                {
+                <tr>
+                    <td class="align-middle">@order.Id</td>
+                    <td class="align-middle">
+                        <ul style="list-style-type:none" style="text-align">
+                            @foreach (var item in order.OrderItems)
+                            {
+                                <li>
+                                    <div class="alert alert-info" role="alert">
+                                        <span class="badge bg-success">@item.Amount</span> [@item.Price.ToString("c")] - @item.Movie.Name - @item.dateTimeOfOrder
+                                    </div>
+                                </li>
+                            }
+                        </ul>
+                    </td>
+                    <td class="align-middle">
+                        @order.OrderItems.Select(m => m.Movie.Price * m.Amount).Sum().ToString("c")
+                    </td>
+                    @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                    {
+                        <td class="align-middle"> @order.User.FullName </td>
+                    }
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>
+}
+ else{
+<div class="row">
+    <div class="col-md-6 offset-3">
+        <h1 class="text-info">You've reached the end of the internet</h1>
+        <hr />
+        <a class="btn btn-outline-success" asp-controller="Movies" asp-action="Index">Home Page</a>
+    </div>
+</div>
+}

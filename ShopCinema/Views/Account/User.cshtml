@@ -1,0 +1,51 @@
+﻿@model ApplicationUser
+
+@{
+    ViewData["Title"] = "Profile";
+}
+
+@if (User.Identity.IsAuthenticated)
+{
+<div class="row">
+    <div class="col-md-6 offset-3">
+        <p>
+            <h1 style="text-align:center; margin-bottom: 30px;">Profile</h1>
+        </p>
+                <form asp-action="Edit" style="display:flex; flex-direction:column;gap:30px;">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="@Model.FullName" class="control-label"></label>
+                        <input asp-for="@Model.FullName" class="form-control" />
+                        <span asp-validation-for="@Model.FullName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="@Model.UserName" class="control-label"></label>
+                        <input asp-for="@Model.UserName" class="form-control" />
+                        <span asp-validation-for="@Model.UserName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="@Model.Email" class="control-label"></label>
+                        <input asp-for="@Model.Email" style="height=200px;" class="form-control" />
+                        <span asp-validation-for="@Model.Email" class="text-danger"></span>
+                    </div>
+                @if (User.Identity.IsAuthenticated && !User.IsInRole("Admin"))
+                {
+                    <div class="form group" style="display:flex; justify-content: space-between;">
+                        <input type="submit" value="Update" class="btn btn-outline-success " asp-action="Edit" asp-route-data="@Model"/>
+                        <a class="btn btn-danger text-white" asp-action="Delete"  asp-route-id="@Model.Id"><i class="bi bi-trash"></i>Delete </a>
+                    </div>
+                }
+                </form>
+    </div>
+</div>
+}
+else
+{
+    <div class="row">
+        <div class="col-md-6 offset-3">
+            <h1 class="text-info">You've reached the end of the internet</h1>
+            <hr />
+            <a class="btn btn-outline-success" asp-controller="Movies" asp-action="Index">Home Page</a>
+        </div>
+    </div>
+}

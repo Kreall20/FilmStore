@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Actor>
+
+@{
+    ViewData["Title"] = "List of Actors";
+}
+
+
+<div class="row">
+    <div class="col-md-8 offset-md-2">
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.ProfilePicture)</th>
+                    <th>@Html.DisplayNameFor(model => model.FullName)</th>
+                    <th>@Html.DisplayNameFor(model => model.Bio)</th>
+                    @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                    {
+                        <th>Actions</th>
+                    }
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="align-middle">
+                            <img class="rounded-circle" src="@item.ProfilePicture" alt="@item.FullName" style="max-width: 140px" />
+                        </td>
+                        <td class="align-middle">
+                            @Html.DisplayFor(modelItem => item.FullName)
+                        </td>
+                        <td class="align-middle">
+                            @Html.DisplayFor(modelItem => item.Bio)
+                        </td>
+                        @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                        {
+                            <td class="align-middle" style="text-align: center;">
+                                <a class="btn btn-outline-primary text-black" asp-action="Edit" asp-route-id="@item.Id"><i class="bi bi-pencil-square"></i>Edit </a>
+                                <a class="btn btn-outline-info text-black" asp-action="Details" asp-route-id="@item.Id"><i class="bi bi-eye"></i>Details </a>
+                                <a class="btn btn-danger text-white" asp-action="Delete"  asp-route-id="@item.Id"><i class="bi bi-trash"></i>Delete </a>
+                            </td>
+                        }
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+
+    </div>
+</div>
+@if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+{
+    <div class="text-white" style="position:fixed; right:25px;bottom:25px;">
+        <a asp-asp-controller="Actors" asp-action="Create" class="btn btn-success"><i class="bi bi-plus-circle"></i>Add New</a>
+    </div>
+}
+
+@await Html.PartialAsync("_CreateItem", "Actors") 
